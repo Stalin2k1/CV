@@ -1,0 +1,22 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  background-color:non;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  }
+  h1{
+    font-style: italic;
+    color: #66BFBF;
+  }
+  h3{
+    font-style: normal;
+    color: #66BFBF;
+  }
+  p{
+    font-family: inherit;
+  }
